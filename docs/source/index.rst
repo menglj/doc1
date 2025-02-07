@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+   语音服务专有云部署文档

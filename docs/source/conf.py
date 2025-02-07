@@ -28,9 +28,16 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+source_suffix = ['.rst', '.md']
+
+master_doc = 'index'
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+gettext_uuid = True
+locale_dirs = ['locale/']
