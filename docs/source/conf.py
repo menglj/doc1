@@ -26,6 +26,17 @@ intersphinx_mapping = {
 }
 intersphinx_disabled_domains = ['std']
 
+latex_engine = 'xelatex'
+
+latex_elements = {
+    'preamble': r'''
+    \usepackage{fontspec}
+    \usepackage{xeCJK}  # 支持中文和日文
+    \setCJKmainfont{IPAexMincho}  # 设置日文字体为 IPAexMincho
+    \setmainfont{Times New Roman}  # 设置英文字体
+    '''
+}
+
 templates_path = ['_templates']
 
 source_suffix = ['.rst', '.md']
