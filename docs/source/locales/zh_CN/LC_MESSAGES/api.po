@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025 Sonicwell Technology Ltd.
+# Copyright (C) 2025 Sonicwell Technology Ltd
 # This file is distributed under the same license as the WCC package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-07 16:52+0900\n"
+"POT-Creation-Date: 2025-02-07 18:34+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../api.rst:2
+#: ../../api.rst:2 2e5476996b334eecaf29db036d54f6fb
 msgid "API"
 msgstr ""
 

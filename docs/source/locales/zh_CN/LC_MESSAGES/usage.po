@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025 Sonicwell Technology Ltd.
+# Copyright (C) 2025 Sonicwell Technology Ltd
 # This file is distributed under the same license as the WCC package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-07 16:52+0900\n"
+"POT-Creation-Date: 2025-02-07 18:34+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -19,36 +19,36 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../usage.rst:2
+#: ../../usage.rst:2 6896d3345a594beb989b88f4680731f1
 msgid "Usage"
 msgstr ""
 
-#: ../../usage.rst:7
+#: ../../usage.rst:7 0d0733af28c74e73bc29869cbeb3810e
 msgid "Installation"
 msgstr ""
 
-#: ../../usage.rst:9
+#: ../../usage.rst:9 9e96a74a02fc4412b5ec2581579237b4
 msgid "To use Lumache, first install it using pip:"
 msgstr ""
 
-#: ../../usage.rst:16
+#: ../../usage.rst:16 5276575c946b4de5a7a1c616885d28e8
 msgid "Creating recipes"
 msgstr ""
 
-#: ../../usage.rst:18
+#: ../../usage.rst:18 2c3778ef384a4ab7adb363472b3d3942
 msgid ""
 "To retrieve a list of random ingredients, you can use the "
 "``lumache.get_random_ingredients()`` function:"
 msgstr ""
 
-#: ../../usage.rst:23
+#: ../../usage.rst:23 52af1cc1d3fa4dd0aa0a6c9178d91218
 msgid ""
 "The ``kind`` parameter should be either ``\"meat\"``, ``\"fish\"``, or "
 "``\"veggies\"``. Otherwise, :py:func:`lumache.get_random_ingredients` "
 "will raise an exception."
 msgstr ""
 
-#: ../../usage.rst:29
+#: ../../usage.rst:29 d7e633341c574820b9fa25d2a77a5183
 msgid "For example:"
 msgstr ""
 

@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'WCC'
-copyright = '2025 Sonicwell Technology Ltd.'
+copyright = '2025 Sonicwell Technology Ltd'
 author = 'Menglj'
 
 release = '0.1'

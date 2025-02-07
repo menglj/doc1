@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025 Sonicwell Technology Ltd.
+# Copyright (C) 2025 Sonicwell Technology Ltd
 # This file is distributed under the same license as the WCC package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
 #
@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WCC 0.1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-02-07 16:52+0900\n"
+"POT-Creation-Date: 2025-02-07 18:34+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -19,11 +19,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.17.0\n"
 
-#: ../../index.rst:2
+#: ../../index.rst:2 b07332b3866d4104b994828b05321192
 msgid "Welcome to Lumache's documentation!"
 msgstr "欢迎访问WCC文档"
 
-#: ../../index.rst:4
+#: ../../index.rst:4 d42e9b72d7e0427cb607569e1756c67d
 msgid ""
 "**Lumache** (/lu'make/) is a Python library for cooks and food lovers "
 "that creates recipes mixing random ingredients. It pulls data from the "
@@ -31,17 +31,17 @@ msgid ""
 " a *simple* and *intuitive* API."
 msgstr ""
 
-#: ../../index.rst:9
+#: ../../index.rst:9 19ceb724abd347dc9de5182f6144aa41
 msgid ""
 "Check out the :doc:`usage` section for further information, including how"
 " to :ref:`installation` the project."
 msgstr ""
 
-#: ../../index.rst:14
+#: ../../index.rst:14 184c6246d5074d5e9ce362712a43767f
 msgid "This project is under active development."
 msgstr ""
 
-#: ../../index.rst:17
+#: ../../index.rst:17 cb8f1e2fbdcc4269a0b727ea7a8abee9
 msgid "Contents"
 msgstr ""
 
