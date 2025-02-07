@@ -51,4 +51,4 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 gettext_uuid = True
-locale_dirs = ['locale/']
+locale_dirs = ['locales/']
